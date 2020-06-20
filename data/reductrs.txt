@@ -1,0 +1,711 @@
+"10 Pairs Of White Denim That Scream “Seeing As It’s Basically Summer Now, I Will No Longer Be Doing Daily Hackerone Triages”"
+Find Someone Who Looks At You The Way Intel CPUs Look At An Indirect Branch
+Quiz! Is Your Coworker Exasperatedly Pounding The Keyboard In The Slack Workspace Or Is That A Cat?
+Top 10 Standing Desks To Reduce The Amount Of Time To Do A Headdesk After Seeing A Bad Take
+5 Reasonably Large Coding Side Projects You Could Start At Eleven O’Clock On A Sunday Night
+"Breaking: Manley McFlannel Submits PR With Fifteen Thousand Added Lines Of Code And Absolutely No Documentation, Is Merged To Master Instantly"
+Brilliant! This One Weird Preprocessor Argument Can Strip All Documentation And Code Comments From Your PR To Help Trick Colleagues Into Thinking It Really Was Written By Your Masculine Sounding Pseudonym
+Fascinating! New Study Reveals Men Who Strongly Identify With The Belief That People With Long Sparkly Nails Can’t Be Programmers Because “How Would They Type?” To Be 86% More Likely To Type With Index Fingers Alone
+Classic! This Lesbian Is Worried It’s Not Mutual Because Her Crush Starred All Her Github Repos Except For Maybe One Or Two
+Heartwarming! This ReductRs Staff Writer Turns Into A Blushing Dysfunctional Mess Whenever Cute Rustaceans Compliment Them
+Creative! 5 Ways To Use unsafe {  } To Let Her Know That You’re Also A Disaster Lesbian
+10 Tricks You Won’t Believe That Help You Feel Young Again After Remembering Rust 1.0 Was Five Years Ago
+Is The Printer Actually Out Of Paper Or Does It Simply Need Better Firmware Written In Rust? This Developer Reveals Shocking Answer
+"How To Not Panic When Discovering Your Coworker Has Annotated Every Single Failing Test With
+"How I Spent A Mere Fifty Hours Setting Up CI, Code Coverage, Linters, And Other Necessary Infrastructure For A New Project That Ultimately Took Me Eight Hours To Code"
+How To Reduce Workplace Toxicity By Adding #![allow(warnings)] To All Your Crates
+7 Ancient Revisions Of LLVM To Compile When You Need An Excuse For Playing Animal Crossing During Work Hours
+Are You Doing Zero Knowledge Or Do You Have Zero Knowledge What You’re Doing? Take This Quiz To Find Out
+"12 Ways To Push To Production On Friday Afternoon That Say “Fuck You, Capitalism”"
+Fascinating! Rustacean Cryptographer Claims To Hate Hash Functions But Spends Record Amounts Of Time Arguing With Strangers About Hash Functions
+Huge! Size Queen Switches To Rust After No External Monitor Is Large Enough
+Heartwarming! This ReductRs Staff Writer Turns Into A Blushing Dysfunctional Mess Whenever Cute Rustaceans Compliment Them
+Creative! 5 Ways To Use unsafe {  } To Let Her Know That You’re Also A Disaster Lesbian
+10 Tricks You Won’t Believe That Help You Feel Young Again After Remembering Rust 1.0 Was Five Years Ago
+Is The Printer Actually Out Of Paper Or Does It Simply Need Better Firmware Written In Rust? This Developer Reveals Shocking Answer
+"How To Not Panic When Discovering Your Coworker Has Annotated Every Single Failing Test With
+"How I Spent A Mere Fifty Hours Setting Up CI, Code Coverage, Linters, And Other Necessary Infrastructure For A New Project That Ultimately Took Me Eight Hours To Code"
+How To Reduce Workplace Toxicity By Adding #![allow(warnings)] To All Your Crates
+7 Ancient Revisions Of LLVM To Compile When You Need An Excuse For Playing Animal Crossing During Work Hours
+Are You Doing Zero Knowledge Or Do You Have Zero Knowledge What You’re Doing? Take This Quiz To Find Out
+"12 Ways To Push To Production On Friday Afternoon That Say “Fuck You, Capitalism”"
+Fascinating! Rustacean Cryptographer Claims To Hate Hash Functions But Spends Record Amounts Of Time Arguing With Strangers About Hash Functions
+Huge! Size Queen Switches To Rust After No External Monitor Is Large Enough
+Clever! This Woman Plans To Endure The Struggles Of Parenting To Test EICAR Compliance!
+How To Not Explode When Some Random Dude On Github Ats You To Suggest You Implement An Obscure Section Of The PKCS#7 v2 Specification For His Project For Free
+How To Practice Self-Care While Fighing With The Borrow Checker
+5 Ways To Say Goodbye And Goodnight That Actually Mean “I’d Like To Have My Pull Requests Acccepted Before I Disable Notifications On *Wide Circling Gesture* All Of You”
+10 Helpful Tips For Changing The Conversation When That One Roommate Starts Going On Again About How Awesome Rustlang Is
+How To Find A Couples Therapist When Your Partner Neither Follows Nor Retweets Your Joke Twitter Account
+Twelve Signs That Cute Enby Really Is Flirting With You In Animal Crossing
+How To Set Up Different Zoom Accounts So As To Avoid Using Your Sex Party Background In A Work Meeting
+Clever! This Woman In Tech Avoids Toxicity By Decorating Her Office Space With Pink And Purple Cutesy Things To Scare All The Shitty Men Away
+Twelve Ways To Get His Attention With Creative Usage Of unsafe {  }
+Cute! This Woman Thinks She'll Be Able to Compile for Just Twenty Minutes!
+Clever! 5 Tips For Annoying Your Roommate With Your Mechanical Keyboard Now That Everyone Works Remote
+Clever! This Woman Plans To Endure The Struggles Of Parenting To Test EICAR Compliance!
+How To Not Explode When Some Random Dude On Github Ats You To Suggest You Implement An Obscure Section Of The PKCS#7 v2 Specification For His Project For Free
+How To Practice Self-Care While Fighing With The Borrow Checker
+5 Ways To Say Goodbye And Goodnight That Actually Mean “I’d Like To Have My Pull Requests Acccepted Before I Disable Notifications On *Wide Circling Gesture* All Of You”
+10 Helpful Tips For Changing The Conversation When That One Roommate Starts Going On Again About How Awesome Rustlang Is
+How To Find A Couples Therapist When Your Partner Neither Follows Nor Retweets Your Joke Twitter Account
+Twelve Signs That Cute Enby Really Is Flirting With You In Animal Crossing
+How To Set Up Different Zoom Accounts So As To Avoid Using Your Sex Party Background In A Work Meeting
+Clever! This Woman In Tech Avoids Toxicity By Decorating Her Office Space With Pink And Purple Cutesy Things To Scare All The Shitty Men Away
+Twelve Ways To Get His Attention With Creative Usage Of unsafe {  }
+Cute! This Woman Thinks She'll Be Able to Compile for Just Twenty Minutes!
+Clever! 5 Tips For Annoying Your Roommate With Your Mechanical Keyboard Now That Everyone Works Remote
+Useful! 5 Tips For Tuning Out Your Roommate’s Mechanical Keyboard Now That Everyone Works Remote
+"Get Users to Notice Your Library by Having A Cool Logo and Being Fast, Though Just Being Fast Would Have Been Enough"
+How To Pacify That One Friend Who Keeps Encouraging You To Write A Talk Proposal
+Weird! Over-Complimentary Recruiter Wants Something From You
+"You Lose An Hour Of Time Tonight, But That's Nothing Compared To The Hours You've Lost To Dealing With Toxic Men"
+Ten Cool Karate Moves To Try Out On The Next Person Who Says You're Not A Real Programmer
+Interesting! Pair Programming Partner Is Jealous Of Rubber Duck On Desk!
+Living Legend? This Woman Just Finished Her Review Backlog
+Wow! Presidential Candidate Speaks Out Against Memory Safety For All!
+Inspiring! Manager Is Supportive Of Woman's Impostor Syndrome By Severely Underleveling Her!
+10 Reply Emojis That Tell That Queer Rust Enthusiast You Appreciate Them
+Aww! Reductrs Staff Writer Blushing Because Several Cute Girls They Have Internet Crushes On Liked The Jokes They Made
+Genius! This Woman Shares Horrifying Code Snippets To Flirt With Other Queer Hackers
+4 Cute Decorating Tips To Brighten Up The Startup Closet You Cry In
+Editorial Staff Too Heartwarmed To Come Up With A Snappy Title
+😳
+Wow! Everyone Is Obsessing Over Who Runs A Novelty Twitter Account Instead Of Working To Dismantle The Patriarchy!
+Useful! 5 Tips For Tuning Out Your Roommate’s Mechanical Keyboard Now That Everyone Works Remote
+"Get Users to Notice Your Library by Having A Cool Logo and Being Fast, Though Just Being Fast Would Have Been Enough"
+How To Pacify That One Friend Who Keeps Encouraging You To Write A Talk Proposal
+Weird! Over-Complimentary Recruiter Wants Something From You
+"You Lose An Hour Of Time Tonight, But That's Nothing Compared To The Hours You've Lost To Dealing With Toxic Men"
+Ten Cool Karate Moves To Try Out On The Next Person Who Says You're Not A Real Programmer
+Interesting! Pair Programming Partner Is Jealous Of Rubber Duck On Desk!
+Living Legend? This Woman Just Finished Her Review Backlog
+Wow! Presidential Candidate Speaks Out Against Memory Safety For All!
+Inspiring! Manager Is Supportive Of Woman's Impostor Syndrome By Severely Underleveling Her!
+10 Reply Emojis That Tell That Queer Rust Enthusiast You Appreciate Them
+Aww! Reductrs Staff Writer Blushing Because Several Cute Girls They Have Internet Crushes On Liked The Jokes They Made
+Genius! This Woman Shares Horrifying Code Snippets To Flirt With Other Queer Hackers
+4 Cute Decorating Tips To Brighten Up The Startup Closet You Cry In
+Editorial Staff Too Heartwarmed To Come Up With A Snappy Title
+😳
+Wow! Everyone Is Obsessing Over Who Runs A Novelty Twitter Account Instead Of Working To Dismantle The Patriarchy!
+Blessed! All Of Her Coworkers Look Like John Mulaney!
+Incredible! This Enby Wrote Extensive Artisanal Assembly While Boyfriend Had Them Put On Read
+10 Ways You Can Talk About Unsafe Code Without Creating An Unsafe Work Environment
+How To Get The Cool Novelty Account My Friends Insist I Run To Take My Submissions
+Help! My Friends Keep Showing Me Cool Tweets From The Novelty Account I Secretly Run!
+How to Pick a Fight With Your Compiler Then Cry Because You're Fighting With Your Compiler
+"Instead Of Calling My Ex, I Squatted Their Project's Name On"
+How to Impress Your Syntax Sugar Daddy by Reading Code Using try!()
+How To Respect Yourself Even Though Your Name’s Not On
+How to Get Over Impostor Syndrome by Remembering the Earth is Dying
+Reductrs Writer Anonymously Subtweets Their Partner With Relatable Headline
+Brilliant! This Woman Stared At Obscure Intel Specs To Understand Chipset Behaviour For Several Days Before Finally Giving Up And Just Writing Some Code To Test It
+"Wow! This Woman Performs Uncompensated Labor for Her Own Amusement, Only For A Faceless Account To Co-Opt It"
+"Rust Language Turns (1.)40, Notices That Its Performance Reviews At Tech Companies Are Becoming More Negative"
+"Wow! To Prevent Deadlocks, This Programmer Just Doesn’t Spawn Threads"
+Attempt at Intermittent Practice in Python Foiled by Pesky Need to Stay Operational
+"Don’t Worry! The Cool Rustacean You Always Looked Up To And Wanted to Meet Will Be At RustConf, In Spirit"
+Blessed! All Of Her Coworkers Look Like John Mulaney!
+Incredible! This Enby Wrote Extensive Artisanal Assembly While Boyfriend Had Them Put On Read
+10 Ways You Can Talk About Unsafe Code Without Creating An Unsafe Work Environment
+How To Get The Cool Novelty Account My Friends Insist I Run To Take My Submissions
+Help! My Friends Keep Showing Me Cool Tweets From The Novelty Account I Secretly Run!
+How to Pick a Fight With Your Compiler Then Cry Because You're Fighting With Your Compiler
+"Instead Of Calling My Ex, I Squatted Their Project's Name On"
+How to Impress Your Syntax Sugar Daddy by Reading Code Using try!()
+How To Respect Yourself Even Though Your Name’s Not On
+How to Get Over Impostor Syndrome by Remembering the Earth is Dying
+Reductrs Writer Anonymously Subtweets Their Partner With Relatable Headline
+Brilliant! This Woman Stared At Obscure Intel Specs To Understand Chipset Behaviour For Several Days Before Finally Giving Up And Just Writing Some Code To Test It
+"Wow! This Woman Performs Uncompensated Labor for Her Own Amusement, Only For A Faceless Account To Co-Opt It"
+"Rust Language Turns (1.)40, Notices That Its Performance Reviews At Tech Companies Are Becoming More Negative"
+"Wow! To Prevent Deadlocks, This Programmer Just Doesn’t Spawn Threads"
+Attempt at Intermittent Practice in Python Foiled by Pesky Need to Stay Operational
+"Don’t Worry! The Cool Rustacean You Always Looked Up To And Wanted to Meet Will Be At RustConf, In Spirit"
+Error Hint Processed 0%
+"""I’m Sorry For Being So Confusing When You Were Feeding Me Garbage"" —Compiler Diagnostics Module Speaks Out"
+Younger Cousin Finally Tries Haskell
+Uh Oh! Flaky Regression Test Actually Demonstrating Aberrant Behavior!
+Amazing! This Enby Pretended To Use Tabs Before Spaces To Make A Bad Tinder Date End Faster
+Yikes! Ex Still Believes Instruction Execution is Linearly Ordered
+Ha Ha Nice! Abysmal Code Coverage Now at 69%
+Feminist Hero! This Gal Likes To Mentor Her Girlfriends
+Code Consistently Works?
+"Five Compile Errors That, With A Little More Effort, Could've Been Runtime Faults"
+Inspiring! This Labor-Friendly Programming Language Adds A Feature To Do Less Work Without Requiring You To Do More Work Instead
+Six Subtle Sentences To Tweet That Remind Your Audience It's Your Birthday Without Coming Off As Too Needy
+This Woman Works From Home But She Still Puts On Pants For The Standup
+"Five Interview Questions That Are So Good At Homogenizing Company Culture, They're Actually Illegal!"
+4 Cute API Designs to Wrap a C Library Which Only Passes Unannotated Pointers
+Big Mood: This Woman Collects Keyboards To Match Her Mood
+Error Hint Processed 0%
+"""I’m Sorry For Being So Confusing When You Were Feeding Me Garbage"" —Compiler Diagnostics Module Speaks Out"
+Younger Cousin Finally Tries Haskell
+Uh Oh! Flaky Regression Test Actually Demonstrating Aberrant Behavior!
+Amazing! This Enby Pretended To Use Tabs Before Spaces To Make A Bad Tinder Date End Faster
+Yikes! Ex Still Believes Instruction Execution is Linearly Ordered
+Ha Ha Nice! Abysmal Code Coverage Now at 69%
+Feminist Hero! This Gal Likes To Mentor Her Girlfriends
+Code Consistently Works?
+"Five Compile Errors That, With A Little More Effort, Could've Been Runtime Faults"
+Inspiring! This Labor-Friendly Programming Language Adds A Feature To Do Less Work Without Requiring You To Do More Work Instead
+Six Subtle Sentences To Tweet That Remind Your Audience It's Your Birthday Without Coming Off As Too Needy
+This Woman Works From Home But She Still Puts On Pants For The Standup
+"Five Interview Questions That Are So Good At Homogenizing Company Culture, They're Actually Illegal!"
+4 Cute API Designs to Wrap a C Library Which Only Passes Unannotated Pointers
+Big Mood: This Woman Collects Keyboards To Match Her Mood
+Insightful! Take This Quiz To Find Out Which Mechanical Keyboard Will Make The Correct Amount Of Noise To Match Your Personality
+Codebase Celebrates Final Yak Shave Of The Season
+Incredible: The Year 2019 Means We Have To Officially State That Our Writing Staff Has No CIA Officers Or Palantir Employees
+I Hate Toxic Energy: That's Why I Stopped Looking At My Compiler Warnings
+Aw! This Rustacean Only Wrote A Crate So She Could Name It
+"What Does The Perfect Glass of Lemonade Have In Common With The Perfect Software Hosting Provider?
+
+It Doesn't Support Any Ice."
+"(No It Won't, It's ""Block Them"")"
+"10 Novel Ways To Deal With Men Sealioning In Your Mentions About RMS
+
+#7 Will Surprise You!!"
+How To Stop Saying “Sorry It's Terrible” When People Review Your Code
+Wow! This Asshole Organized An Asshole Conference For Assholes So That They Can Be Assholes To Each Other Instead Of The Rest Of Us!
+"Writing ReductRs Means Supporting All Women and Non-Binary People, and This Man"
+Are You Sapiosexual Or Did You Just See @aaron_turon’s Latest Glasses Selfie
+"I Don't Care What Benchmarks Think Of My Code, Unless They're Thinking ""Dayummmmmmmmn"""
+Bug Hunting Tip: Get Lost In The Specification Weeds And Pounce When The Bugs Least Expect It
+Why I'm Not Bringing My Child To Conferences Until She's Old Enough To Decide That She Likes Gothic Fashion
+SSD dies after six-month-long battle with huge build directories
+Insightful! Take This Quiz To Find Out Which Mechanical Keyboard Will Make The Correct Amount Of Noise To Match Your Personality
+Codebase Celebrates Final Yak Shave Of The Season
+Incredible: The Year 2019 Means We Have To Officially State That Our Writing Staff Has No CIA Officers Or Palantir Employees
+I Hate Toxic Energy: That's Why I Stopped Looking At My Compiler Warnings
+Aw! This Rustacean Only Wrote A Crate So She Could Name It
+"What Does The Perfect Glass of Lemonade Have In Common With The Perfect Software Hosting Provider?
+
+It Doesn't Support Any Ice."
+"(No It Won't, It's ""Block Them"")"
+"10 Novel Ways To Deal With Men Sealioning In Your Mentions About RMS
+
+#7 Will Surprise You!!"
+How To Stop Saying “Sorry It's Terrible” When People Review Your Code
+Wow! This Asshole Organized An Asshole Conference For Assholes So That They Can Be Assholes To Each Other Instead Of The Rest Of Us!
+"Writing ReductRs Means Supporting All Women and Non-Binary People, and This Man"
+Are You Sapiosexual Or Did You Just See @aaron_turon’s Latest Glasses Selfie
+"I Don't Care What Benchmarks Think Of My Code, Unless They're Thinking ""Dayummmmmmmmn"""
+Bug Hunting Tip: Get Lost In The Specification Weeds And Pounce When The Bugs Least Expect It
+Why I'm Not Bringing My Child To Conferences Until She's Old Enough To Decide That She Likes Gothic Fashion
+SSD dies after six-month-long battle with huge build directories
+Did You Know? Your Build Directory Is Self Cleaning But Your Keyboard Is NOT
+4 Pre-1.0 Code Samples To Keep In The Test Suite Instead Of Admitting The Language Has Changed
+Sexual Harasser Resents That He Came On His Terms But Had To Leave On Everyone Else's
+Fun! This Language Designer Is Thinking Long Term Even Though Computing Won't Survive Climate Collapse
+"BRO CORNER: ""Why Would I Use A Memory Safe Language When I Could Use -fsanitize=address"""
+Maintainer Just Glad Bug Wasn't Their Fault
+Study Finds Memory Vulnerabilities In Parsers And Also Every Other Kind Of Library
+Allocating a Buffer Would Solve All of My Lifetime Problems. Here's Why I Won't Do It.
+Girl Boss! This Woman Checks Her GitHub Notifications At The Club
+Lesbian Couple Recompiles Crate Every Morning From Fresh Nightly Update
+Six Breakfast Places In Portland To Go That Won't Judge You For Crying Into Your Coffee Because You Have To Leave
+Five Funky Constant Expressions That Can Find Your Unhandled Edge Cases Faster Than AFL
+Horrifying: Kayden Brought A Recruitment Flyer #rustconf
+Friend Still Reading The Type Error Like It’s Moby Dick Or Something
+Quiz: Are We On 1.36 or 1.37 I Honestly Can't Remember
+Wow! This Lesbian Quietly Flirts By Starring All Your Github Repos
+How To Impress Your Sugar Daddy By Reading From A Raw Pointer
+I Lived It: I Had To Request A Code Review From My Ex Girlfriend
+How To Ignore Warnings From Your Linter Like A Republican Ignores White Nationalist Terrorism
+"Lol, Nice – Compiler Says You Have 69 Errors In Your Code"
+Did You Know? Your Build Directory Is Self Cleaning But Your Keyboard Is NOT
+4 Pre-1.0 Code Samples To Keep In The Test Suite Instead Of Admitting The Language Has Changed
+Sexual Harasser Resents That He Came On His Terms But Had To Leave On Everyone Else's
+Fun! This Language Designer Is Thinking Long Term Even Though Computing Won't Survive Climate Collapse
+"BRO CORNER: ""Why Would I Use A Memory Safe Language When I Could Use -fsanitize=address"""
+Maintainer Just Glad Bug Wasn't Their Fault
+Study Finds Memory Vulnerabilities In Parsers And Also Every Other Kind Of Library
+Allocating a Buffer Would Solve All of My Lifetime Problems. Here's Why I Won't Do It.
+Girl Boss! This Woman Checks Her GitHub Notifications At The Club
+Lesbian Couple Recompiles Crate Every Morning From Fresh Nightly Update
+Six Breakfast Places In Portland To Go That Won't Judge You For Crying Into Your Coffee Because You Have To Leave
+Five Funky Constant Expressions That Can Find Your Unhandled Edge Cases Faster Than AFL
+Horrifying: Kayden Brought A Recruitment Flyer #rustconf
+Friend Still Reading The Type Error Like It’s Moby Dick Or Something
+Quiz: Are We On 1.36 or 1.37 I Honestly Can't Remember
+Wow! This Lesbian Quietly Flirts By Starring All Your Github Repos
+How To Impress Your Sugar Daddy By Reading From A Raw Pointer
+I Lived It: I Had To Request A Code Review From My Ex Girlfriend
+How To Ignore Warnings From Your Linter Like A Republican Ignores White Nationalist Terrorism
+"Lol, Nice – Compiler Says You Have 69 Errors In Your Code"
+"How To Tell If You’re Being Manipulated By A Narcissist Who Isn’t Really That Bad, You Just Have To Agree With All His Clearly Superior Technical Opinions"
+6 Lesbian Sex Positions That Are All Just Making Each Other Co-Maintainers on Your Crates
+Amazing! Multitasking Engineer Conducts Dates And Interviews Simultaneously!
+How to Impress Your Sugar Daddy by Writing Some FORTRAN
+How To Save Money By Reusing Pretty Much The Same Cargo.toml In All Your Crates
+How To Embrace Rust Like Your Inner Catgirl
+Cool! This Guy's Personality is Functional Programming!
+This Woman Casually Dropped In On An Ex By Unwinding From A Panic!
+4 Activities to Do With Your Friend Who’s Only Available Because Her Code Is Compiling
+Thread At Pool Acting Like It's Not Blocked on I/O
+All Systems Codebases Projected To Be Queer Rust Reimaginings By 2030
+"We Don’t `Try!`, We Question?"
+How To Spend 3 Hours Trying To Fix Your Bad Code Instead Of Deleting It
+A Quick Guide to Recompiling Your Code Without Changes And Expecting It To Work This Time Since You’ve Clearly Reached That Point
+I Thought I Was Totally Straight. Then I Discovered Rust.
+Rustacean Spends Record-Breaking 13 Months Worrying That Someone They Hate Doesn't Like Them
+Fun Conferences You Won't Fully Unpack From Until Three Weeks Later
+Get Toned Arms by Banging Your Tiny Fists on Your Keyboard
+"How To Tell If You’re Being Manipulated By A Narcissist Who Isn’t Really That Bad, You Just Have To Agree With All His Clearly Superior Technical Opinions"
+6 Lesbian Sex Positions That Are All Just Making Each Other Co-Maintainers on Your Crates
+Amazing! Multitasking Engineer Conducts Dates And Interviews Simultaneously!
+How to Impress Your Sugar Daddy by Writing Some FORTRAN
+How To Save Money By Reusing Pretty Much The Same Cargo.toml In All Your Crates
+How To Embrace Rust Like Your Inner Catgirl
+Cool! This Guy's Personality is Functional Programming!
+This Woman Casually Dropped In On An Ex By Unwinding From A Panic!
+4 Activities to Do With Your Friend Who’s Only Available Because Her Code Is Compiling
+Thread At Pool Acting Like It's Not Blocked on I/O
+All Systems Codebases Projected To Be Queer Rust Reimaginings By 2030
+"We Don’t `Try!`, We Question?"
+How To Spend 3 Hours Trying To Fix Your Bad Code Instead Of Deleting It
+A Quick Guide to Recompiling Your Code Without Changes And Expecting It To Work This Time Since You’ve Clearly Reached That Point
+I Thought I Was Totally Straight. Then I Discovered Rust.
+Rustacean Spends Record-Breaking 13 Months Worrying That Someone They Hate Doesn't Like Them
+Fun Conferences You Won't Fully Unpack From Until Three Weeks Later
+Get Toned Arms by Banging Your Tiny Fists on Your Keyboard
+How to Stay Humble Even Though People Are Using Your Crate in Their Blockchain Startup
+‘Slight Change of Plans!’ Says Friend About To Rewrite Codebase
+QUIZ: Are You Depressed or Just Waiting For A Compile?
+A Quick Guide to LLVM Optimization Passes Since You've Clearly Reached That Point
+Dad Just Wants to Know If You Paid for the Holes in Your Type System
+Cool Developer Girl Momentarily Mistaken for Loser Developer Boy
+"Developer Finally Achieve 10,000 Hours Of Sitting In A Coffee Shop"
+"QUIZ: Are You A Real Developer, Or Are You Just A Real Developer Who Refuses To Accept That"
+"If All Memory Unsafety is Cancelled, How Will I Have an Automatic Advantage Over My Peers?"
+Crate's Core Logic Getting Const-Folded Whether It Wants To Or Not
+"4 Mechanical Keyboard Switches That You'll Definitely Just Silence With a Gasket, You Coward"
+Amazing! This Company Decided To Spend Its Time Looking For More Women Instead Of 10X Engineers
+"Wow! This One Programmer Has Caused Ten Of His Coworkers To Quit!
+
+We Call Him The 10 Ex-Engineer."
+Wow! This Open Source Floater Is Tangential to a Record 14 Working Groups!
+How to Stay Humble Even Though People Are Using Your Crate in Their Blockchain Startup
+‘Slight Change of Plans!’ Says Friend About To Rewrite Codebase
+QUIZ: Are You Depressed or Just Waiting For A Compile?
+A Quick Guide to LLVM Optimization Passes Since You've Clearly Reached That Point
+Dad Just Wants to Know If You Paid for the Holes in Your Type System
+Cool Developer Girl Momentarily Mistaken for Loser Developer Boy
+"Developer Finally Achieve 10,000 Hours Of Sitting In A Coffee Shop"
+"QUIZ: Are You A Real Developer, Or Are You Just A Real Developer Who Refuses To Accept That"
+"If All Memory Unsafety is Cancelled, How Will I Have an Automatic Advantage Over My Peers?"
+Crate's Core Logic Getting Const-Folded Whether It Wants To Or Not
+"4 Mechanical Keyboard Switches That You'll Definitely Just Silence With a Gasket, You Coward"
+Amazing! This Company Decided To Spend Its Time Looking For More Women Instead Of 10X Engineers
+"Wow! This One Programmer Has Caused Ten Of His Coworkers To Quit!
+
+We Call Him The 10 Ex-Engineer."
+Wow! This Open Source Floater Is Tangential to a Record 14 Working Groups!
+Incredible! Everything This Language Has Accomplished Was to Spite That One Bitch From Bell Labs
+"Wow! When This Project Couldn't Afford A Safety Audit, The Whole Town Chipped In on Its Rewrite!"
+"Always Remember To Cache After a Compile, Unless It's A Clean Build — Then Do A Full Rebuild"
+Compiler Tragically Reaches Types-Only Part of the Crate
+"Five Easy Weeknight Recip—Holy Shit, 1.0 Was Four Years Ago"
+How To Act Like Your Life Is Miserable Even Though You Have @Carols10cents and @steveklabnik's Book On Your Shelf
+"""I Hope They Get Enough People; I Would But I Probably Wouldn't Get Selected"" Developer Says to Themselves As They Retweet Conference Organizer's Desperate Plea for Anyone, Seriously, to Submit a Talk, About Anything, Come On"
+"QUIZ: Are You the Dumbest Person Alive, Defrauding Your Employer, Users, Friends, and Colleagues, Unfit to Touch a Computer, or Did You Just Forget a Comma on That One Line Right There Yeah"
+Astounding! This Interviewer Asks Puzzle Questions Because He Knows Everything Is Meaningless And There Is No Intrinsic Concept Of Merit Anyway So Why Not Mess With Candidates
+How to Base Your Entire Coding Style on 100loc Snippets of Burntsushi Code
+Deep Breathing Techniques That Are Just You Frantically Trying to Cool Off Your CPU
+Rustacean Worries July 4th Release Will Be Misunderstood as an Endorsement of USA
+How I Stopped Getting Unwanted Attention From Men by Joining the Core Team
+Prominent Developer Says the Only Acceptable Way to Enforce Safety is to Exploit the Attacker Right Back
+"To Reduce Conference Stress, Just Don't Go"
+How to Responsibly Call Out Sick Because Your Cat is Sitting on Your Keyboard With Her Legs Tucked In Like a Loaf of Bread
+Who Is She? Not @mycoliza!
+Incredible! Everything This Language Has Accomplished Was to Spite That One Bitch From Bell Labs
+"Wow! When This Project Couldn't Afford A Safety Audit, The Whole Town Chipped In on Its Rewrite!"
+"Always Remember To Cache After a Compile, Unless It's A Clean Build — Then Do A Full Rebuild"
+Compiler Tragically Reaches Types-Only Part of the Crate
+"Five Easy Weeknight Recip—Holy Shit, 1.0 Was Four Years Ago"
+How To Act Like Your Life Is Miserable Even Though You Have @Carols10cents and @steveklabnik's Book On Your Shelf
+"""I Hope They Get Enough People; I Would But I Probably Wouldn't Get Selected"" Developer Says to Themselves As They Retweet Conference Organizer's Desperate Plea for Anyone, Seriously, to Submit a Talk, About Anything, Come On"
+"QUIZ: Are You the Dumbest Person Alive, Defrauding Your Employer, Users, Friends, and Colleagues, Unfit to Touch a Computer, or Did You Just Forget a Comma on That One Line Right There Yeah"
+Astounding! This Interviewer Asks Puzzle Questions Because He Knows Everything Is Meaningless And There Is No Intrinsic Concept Of Merit Anyway So Why Not Mess With Candidates
+How to Base Your Entire Coding Style on 100loc Snippets of Burntsushi Code
+Deep Breathing Techniques That Are Just You Frantically Trying to Cool Off Your CPU
+Rustacean Worries July 4th Release Will Be Misunderstood as an Endorsement of USA
+How I Stopped Getting Unwanted Attention From Men by Joining the Core Team
+Prominent Developer Says the Only Acceptable Way to Enforce Safety is to Exploit the Attacker Right Back
+"To Reduce Conference Stress, Just Don't Go"
+How to Responsibly Call Out Sick Because Your Cat is Sitting on Your Keyboard With Her Legs Tucked In Like a Loaf of Bread
+Who Is She? Not @mycoliza!
+Wow! This Sociopath Ran An Entire Build and Deploy Cycle While Sitting Upright In Her Chair!
+"""I Don't Have Tme for Therapy,"" Says Man Who Watches Compiler Output 40 Hours a Week"
+"""I Just Don't Think a Modern Memory Safe Language Can Beat C Right Now"", Says Man Who Is the Reason for This"
+"I Don't Code But If I Did, I Would"
+"""I Can't Believe There Isn't a Crate for This,"" Rustacean Says Before Publishing and Abandoning Version 0.4 of a Crate That Doesn't Actually Accomplish the Task"
+"4 Clear Glasses Frames That Say, ""I Haven’t Tried Polymorphism, But I’ve Watched Many Conference Talks on the Matter"""
+Get Him to Notice You by Wearing a Wig on Your Neck
+"""I Believe God Gave Us All Free Will – Except Rust Users"" – a Go User the New York Times Cannot Stop Using As a Source in Articles About Rust"
+Rust Is Ready for Its First Core Team Leaderette
+"""If You Don't Want Memory Vulnerabilities, Write Disciplined Code,"" Says Man Who Introduces UB Five Times a Day"
+"4 Macros that Say, “This Language Doesn’t Make Syntax for My Programming Style”"
+"If Bugs Begin At Authorship, Maybe We Should Disconnect All Keyboards Now"
+Aww! These Three Generations of Women Have All Had to Fix the Same Fucking Exploit
+New Bill Requiring People Seeking Vulnerability Fixes to Paint Timing Diagram of Attack
+What Surprised Me Most About Fixing My CVEs Was That I Was Forced To By The Government
+"""I Want to Teach Children to Code"", Says Silicon Valley CEO Whose Tax Avoidance Starves Public Schools"
+Oh No! These Kids Just Realized Clippy Only Has As Much Power As They Give It
+Man Who Knows Every Stage of the Compiler Forgot Your Name Again
+"[ASMR] @aaron_turon Reviews Your Pull Request, Marks It Approved, And Says, “Thank You For Making Rust Better”"
+Wow! This Sociopath Ran An Entire Build and Deploy Cycle While Sitting Upright In Her Chair!
+"""I Don't Have Tme for Therapy,"" Says Man Who Watches Compiler Output 40 Hours a Week"
+"""I Just Don't Think a Modern Memory Safe Language Can Beat C Right Now"", Says Man Who Is the Reason for This"
+"I Don't Code But If I Did, I Would"
+"""I Can't Believe There Isn't a Crate for This,"" Rustacean Says Before Publishing and Abandoning Version 0.4 of a Crate That Doesn't Actually Accomplish the Task"
+"4 Clear Glasses Frames That Say, ""I Haven’t Tried Polymorphism, But I’ve Watched Many Conference Talks on the Matter"""
+Get Him to Notice You by Wearing a Wig on Your Neck
+"""I Believe God Gave Us All Free Will – Except Rust Users"" – a Go User the New York Times Cannot Stop Using As a Source in Articles About Rust"
+Rust Is Ready for Its First Core Team Leaderette
+"""If You Don't Want Memory Vulnerabilities, Write Disciplined Code,"" Says Man Who Introduces UB Five Times a Day"
+"4 Macros that Say, “This Language Doesn’t Make Syntax for My Programming Style”"
+"If Bugs Begin At Authorship, Maybe We Should Disconnect All Keyboards Now"
+Aww! These Three Generations of Women Have All Had to Fix the Same Fucking Exploit
+New Bill Requiring People Seeking Vulnerability Fixes to Paint Timing Diagram of Attack
+What Surprised Me Most About Fixing My CVEs Was That I Was Forced To By The Government
+"""I Want to Teach Children to Code"", Says Silicon Valley CEO Whose Tax Avoidance Starves Public Schools"
+Oh No! These Kids Just Realized Clippy Only Has As Much Power As They Give It
+Man Who Knows Every Stage of the Compiler Forgot Your Name Again
+"[ASMR] @aaron_turon Reviews Your Pull Request, Marks It Approved, And Says, “Thank You For Making Rust Better”"
+Cat Remains On Laptop for Entirety of Development
+How to Get Your Friend to Stop Bragging About Her Relationship With Her Totality Prover When You Don't Even Have Type Level Integers
+"Wow! Man Wants to Prove Correctness, But Not Like Formally or Respectfully or Anything"
+How to Achieve Feature Growth When All Your Bugs Are Adorable
+How to Tell Him That Your Biggest Fantasy Is Actually a Whole Program Optimization Pass
+"I’m Not Saying I Tried to Eat a Ferris Sculpture, I’m Just Saying It Was Really Well Made and I’m From Boston!"
+How to Feel Your Best Even Though You'll Never Be Alex Crichton
+New Power Couple Alert! This Build Server and That Outlet
+Why I Stopped Comparing Myself to Others and Started Comparing Myself to Bors
+Clippy’s Favorite Activity Is Criticizing Clippy’s Codebase
+How to Respect Yourself Even Though Your Name’s Not In “Friends of the Tree”
+"How to Tell If You're Gay by Hanging Out at a Rust Conference With Me, OK? I Saved You a Seat for the Keynote"
+Asshole Clippy Won't Tell User It Smells Bugs
+QUIZ: Are You The Next Programming Language Who Can Fix Memory Safety?
+Find Someone That Looks at You the Way gcc Looks at Pointer Arithmetic
+Four Super Easy Rust Programs That Call for $600 Worth of rustc RAM
+Uh Oh! Beth Wants Your Feedback on a Blog Post She Wrote About Non Lexical Lifetimes
+Four People Who Switched to Rust Instead of Contributing to Their Own Languages
+Rustc Compiles Code Six Hours Longer Than Initial Estimate
+Cat Remains On Laptop for Entirety of Development
+How to Get Your Friend to Stop Bragging About Her Relationship With Her Totality Prover When You Don't Even Have Type Level Integers
+"Wow! Man Wants to Prove Correctness, But Not Like Formally or Respectfully or Anything"
+How to Achieve Feature Growth When All Your Bugs Are Adorable
+How to Tell Him That Your Biggest Fantasy Is Actually a Whole Program Optimization Pass
+"I’m Not Saying I Tried to Eat a Ferris Sculpture, I’m Just Saying It Was Really Well Made and I’m From Boston!"
+How to Feel Your Best Even Though You'll Never Be Alex Crichton
+New Power Couple Alert! This Build Server and That Outlet
+Why I Stopped Comparing Myself to Others and Started Comparing Myself to Bors
+Clippy’s Favorite Activity Is Criticizing Clippy’s Codebase
+How to Respect Yourself Even Though Your Name’s Not In “Friends of the Tree”
+"How to Tell If You're Gay by Hanging Out at a Rust Conference With Me, OK? I Saved You a Seat for the Keynote"
+Asshole Clippy Won't Tell User It Smells Bugs
+QUIZ: Are You The Next Programming Language Who Can Fix Memory Safety?
+Find Someone That Looks at You the Way gcc Looks at Pointer Arithmetic
+Four Super Easy Rust Programs That Call for $600 Worth of rustc RAM
+Uh Oh! Beth Wants Your Feedback on a Blog Post She Wrote About Non Lexical Lifetimes
+Four People Who Switched to Rust Instead of Contributing to Their Own Languages
+Rustc Compiles Code Six Hours Longer Than Initial Estimate
+Why I Decided to Quit Compiling With a Theorem Prover and Start Compiling With a Handful of Less Powerful Linters
+Rustfmt Sick of Expectation to Be Clippy
+Developer Thanks God for Program Compiler Made
+You Won't Believe How Easy These Rewrite It In Rust Tutorials Are Because You Don't #BelieveWomen
+"What Could Be Causing Your Segfaults Because Please, For the Love of God, It Can't Be User Input"
+Prep For RFC Season By Muting All Your Friends Who Read RFCs
+QUIZ: Is He a Great Pairing Partner or Just a Rubber Ducky
+I Don't Care If Parts of My Code Don't Compile; I Just Need a List of Which Expressions and Why Not
+4 Bold Uses of `mem::transmute` to Bail On Seconds After Starting a Compile
+PR Assignee Wants to Know Why You're Excited to Contribute to His Shitty Repository
+This Ethically Polyglot Project Donates to Mozilla Every Time Their Build Succeeds
+Aw! This Production Compiler Thinks It's Cute That It's Helpless Without Its Undefined Behavior Heuristics Around
+Red Test Output? Yes.
+Wow! Cool Runtime Doesn't Care About Soundness and Shit
+"Instead of Introducing Myself to burntsushi, I Made Them My Emergency Contact and Got Hit By a Car"
+It Takes a Village to Review My Code
+Bummer! This Program Has Too Many Vulnerabilities to Get Into the “Good Programs” Mailing List
+How to Stay Awake At Your Desk Because That Is Technically What You're Being Paid to Do While the Compiler Churns
+I Lived It: My Compiler Called My Problems “Very Common”
+Why I Stopped Writing Code and Started Following a Herd of Majestic Bison
+Why I Decided to Quit Compiling With a Theorem Prover and Start Compiling With a Handful of Less Powerful Linters
+Rustfmt Sick of Expectation to Be Clippy
+Developer Thanks God for Program Compiler Made
+You Won't Believe How Easy These Rewrite It In Rust Tutorials Are Because You Don't #BelieveWomen
+"What Could Be Causing Your Segfaults Because Please, For the Love of God, It Can't Be User Input"
+Prep For RFC Season By Muting All Your Friends Who Read RFCs
+QUIZ: Is He a Great Pairing Partner or Just a Rubber Ducky
+I Don't Care If Parts of My Code Don't Compile; I Just Need a List of Which Expressions and Why Not
+4 Bold Uses of `mem::transmute` to Bail On Seconds After Starting a Compile
+PR Assignee Wants to Know Why You're Excited to Contribute to His Shitty Repository
+This Ethically Polyglot Project Donates to Mozilla Every Time Their Build Succeeds
+Aw! This Production Compiler Thinks It's Cute That It's Helpless Without Its Undefined Behavior Heuristics Around
+Red Test Output? Yes.
+Wow! Cool Runtime Doesn't Care About Soundness and Shit
+"Instead of Introducing Myself to burntsushi, I Made Them My Emergency Contact and Got Hit By a Car"
+It Takes a Village to Review My Code
+Bummer! This Program Has Too Many Vulnerabilities to Get Into the “Good Programs” Mailing List
+How to Stay Awake At Your Desk Because That Is Technically What You're Being Paid to Do While the Compiler Churns
+I Lived It: My Compiler Called My Problems “Very Common”
+Why I Stopped Writing Code and Started Following a Herd of Majestic Bison
+Fashionable Eyeglasses that Will Make You Look Good as You Stare At Type Errors All Day
+How to Learn to Trust Again After the Compiler Reveals Its IR Is Actually Its Middle IR
+How I Learned To Stop Worrying And Start Loving The ? Operator
+He's Just Not That .into() You: Dealing With Incompatible Error Types In Your Code
+Dependency Goals: These Crates Realized They Don’t Have to Perform Every Build Together
+Kim’s Documentation of Code Somehow Longer than Actual Code
+"The 15 Calls to "".clone()"" in Your Codebase You Can Turn Into Borrows to Completely Transform Your Crate"
+"Don’t Cry Because Your Build Failed; Smile Because the Compiler Caught You
+
+And At Least It Failed Quickly"
+Prep for Tech Conference Season by Muting All Your Friends who Go to Tech Conferences
+Tammy Commented On Your Long Function Like A Trifling Snitch
+Rustacean Mom Eagerly Awaiting A CVE In Your C Code For Glorious Vindication
+"“I’m Feeling Good These Days,” Says Contributor Who Clearly Does Not Get PR or RFC Notifications"
+Posted With Permission
+"This Enby Isn’t Emotionally Ready to Own A Commit in rustc, but They Won’t Let That Stop Them"
+Compiler Stays in LLVM Codegen Six Hours Longer Than Initial Estimate
+Compiler’s Bounds Checker Wants to Be Clear That They Check EVERY (Loop) BODY
+How to Tell If You're Interested In Correctness or Very Interested In Correctness
+Wow! This Old School Hacker’s Worst Fear is “Getting Too Comfortable” With His Tools
+Fashionable Eyeglasses that Will Make You Look Good as You Stare At Type Errors All Day
+How to Learn to Trust Again After the Compiler Reveals Its IR Is Actually Its Middle IR
+How I Learned To Stop Worrying And Start Loving The ? Operator
+He's Just Not That .into() You: Dealing With Incompatible Error Types In Your Code
+Dependency Goals: These Crates Realized They Don’t Have to Perform Every Build Together
+Kim’s Documentation of Code Somehow Longer than Actual Code
+"The 15 Calls to "".clone()"" in Your Codebase You Can Turn Into Borrows to Completely Transform Your Crate"
+"Don’t Cry Because Your Build Failed; Smile Because the Compiler Caught You
+
+And At Least It Failed Quickly"
+Prep for Tech Conference Season by Muting All Your Friends who Go to Tech Conferences
+Tammy Commented On Your Long Function Like A Trifling Snitch
+Rustacean Mom Eagerly Awaiting A CVE In Your C Code For Glorious Vindication
+"“I’m Feeling Good These Days,” Says Contributor Who Clearly Does Not Get PR or RFC Notifications"
+Posted With Permission
+"This Enby Isn’t Emotionally Ready to Own A Commit in rustc, but They Won’t Let That Stop Them"
+Compiler Stays in LLVM Codegen Six Hours Longer Than Initial Estimate
+Compiler’s Bounds Checker Wants to Be Clear That They Check EVERY (Loop) BODY
+How to Tell If You're Interested In Correctness or Very Interested In Correctness
+Wow! This Old School Hacker’s Worst Fear is “Getting Too Comfortable” With His Tools
+N. Matsakis Reveals `borrowck` Uses a Remembrall to Remember to Release After Last Use
+That's Not A Bad Point
+6 Type Theory Papers That Are Better Than Sex and Almost As Good As “PYNK“ by Janelle Monae
+Configuration Language Completely Unrecognizable to Developers After Slight Change in Syntax
+"Bad News, Bro"
+Man Just Prefers Programming Languages From Before Women Made Them
+5 Design Patterns Men Hate the Most and How to Ship Them Effectively
+C Compiler Which Brought Immeasurable Amounts of Pain To Your Life Wants To Be Used Again
+I Got into Google Solely on Merit and Also Being Willing to Take a Shit Ton of Abuse
+"Wow! This Predator Thinks He’s Just a “Technically Competent, Socially Brusque“ Guy"
+"How to Explain You Were ""A Total Pythonista"" to Someone Exploring Their Programming Knowledge"
+Five Hundred Easy Steps To Get Rid Of Your Reply Guys
+"Wow! This Man Can Explain Any Code, But Only To Its Author!"
+Senior Engineer Asked To Provide Proof Of Her Previous Experience
+We Very Specifically Do Not Want the Clean Code Uncle Though
+I Don't Want a Syntax Sugar Daddy I Want a Clean Refactoring Uncle
+"‘But What About Unsafe Blocks,’ Says Man, Unprovoked, to No One in Particular"
+Uh-Oh! Woman Cites Her Crappy Programming Language as the Reason Her Friend Shouldn’t Lose Hope
+"Inspiring! This woman writes 30 lines of code a day, but deletes 500!"
+N. Matsakis Reveals `borrowck` Uses a Remembrall to Remember to Release After Last Use
+That's Not A Bad Point
+6 Type Theory Papers That Are Better Than Sex and Almost As Good As “PYNK“ by Janelle Monae
+Configuration Language Completely Unrecognizable to Developers After Slight Change in Syntax
+"Bad News, Bro"
+Man Just Prefers Programming Languages From Before Women Made Them
+5 Design Patterns Men Hate the Most and How to Ship Them Effectively
+C Compiler Which Brought Immeasurable Amounts of Pain To Your Life Wants To Be Used Again
+I Got into Google Solely on Merit and Also Being Willing to Take a Shit Ton of Abuse
+"Wow! This Predator Thinks He’s Just a “Technically Competent, Socially Brusque“ Guy"
+"How to Explain You Were ""A Total Pythonista"" to Someone Exploring Their Programming Knowledge"
+Five Hundred Easy Steps To Get Rid Of Your Reply Guys
+"Wow! This Man Can Explain Any Code, But Only To Its Author!"
+Senior Engineer Asked To Provide Proof Of Her Previous Experience
+We Very Specifically Do Not Want the Clean Code Uncle Though
+I Don't Want a Syntax Sugar Daddy I Want a Clean Refactoring Uncle
+"‘But What About Unsafe Blocks,’ Says Man, Unprovoked, to No One in Particular"
+Uh-Oh! Woman Cites Her Crappy Programming Language as the Reason Her Friend Shouldn’t Lose Hope
+"Inspiring! This woman writes 30 lines of code a day, but deletes 500!"
+"Help! My Coworker Refuses to ""rustup"""
+"Compiling My Codebase Is a Marathon, Not a Sprint"
+Tips to Deal With Undecidability While Your Rival Compiler Sleeps the Effortless Sleep of the Unoptimizing
+Models Predict That 2019 Will Be 𝘌𝘝𝘌𝘕 𝘏𝘖𝘛𝘛𝘌𝘙
+NASA Confirms That 2018 Was Rust’s Hottest Year on Record
+Dave is Learning Coq? Ok Then
+Bugs from Being Memory Unsafe? Damn That Sucks
+Everyone Immediately Making Fun of Carrie’s Style Choices After They Insisted She Be in Charge of the Rustfmt Dot Toml
+Man Explains Woman’s Code to Her
+"Inspiring! Rustacean Takes Year Off Work With Her Unlimited Vacation Policy, Citing ""It's Not Done Compiling"""
+Help! I Said I Hate My Code Style and Now Nick Cameron Is Hunting Me
+How to Keep a Healthy $HOME/$WORK Balance
+Rock These Proc Macros When You Need to Hide 24 Unsafe Blocks
+"6 `utils` Modules That Say, “Please Stop Treating Me Like A Closet I’m Begging You.”"
+"Just Because You Can't Find My Hot Loop Doesn't Mean It Isn't There, Brayden: An Illustrated Guide to Beating Premature Optimization"
+How to Stare Dramatically Across a Pond Until The Compile Finishes
+Amazing! Woman Finally Works Up Courage To Run Cargo Clippy On Her Crate!
+How To Tell Your Boyfriend He Is Wrong About C
+Finally! Guy Posting All His Programming Opinions On Twitter
+"Help! My Coworker Refuses to ""rustup"""
+"Compiling My Codebase Is a Marathon, Not a Sprint"
+Tips to Deal With Undecidability While Your Rival Compiler Sleeps the Effortless Sleep of the Unoptimizing
+Models Predict That 2019 Will Be 𝘌𝘝𝘌𝘕 𝘏𝘖𝘛𝘛𝘌𝘙
+NASA Confirms That 2018 Was Rust’s Hottest Year on Record
+Dave is Learning Coq? Ok Then
+Bugs from Being Memory Unsafe? Damn That Sucks
+Everyone Immediately Making Fun of Carrie’s Style Choices After They Insisted She Be in Charge of the Rustfmt Dot Toml
+Man Explains Woman’s Code to Her
+"Inspiring! Rustacean Takes Year Off Work With Her Unlimited Vacation Policy, Citing ""It's Not Done Compiling"""
+Help! I Said I Hate My Code Style and Now Nick Cameron Is Hunting Me
+How to Keep a Healthy $HOME/$WORK Balance
+Rock These Proc Macros When You Need to Hide 24 Unsafe Blocks
+"6 `utils` Modules That Say, “Please Stop Treating Me Like A Closet I’m Begging You.”"
+"Just Because You Can't Find My Hot Loop Doesn't Mean It Isn't There, Brayden: An Illustrated Guide to Beating Premature Optimization"
+How to Stare Dramatically Across a Pond Until The Compile Finishes
+Amazing! Woman Finally Works Up Courage To Run Cargo Clippy On Her Crate!
+How To Tell Your Boyfriend He Is Wrong About C
+Finally! Guy Posting All His Programming Opinions On Twitter
+My C Compiler Lets Me Corrupt My Own Memory Instead Of Preventing It Ahead of Time Because He's a Feminist
+Programmer Adds Extra Underscores to the Beginning of Binding Names to Seem _____load_bearing
+"What Is Your Linter Trying to Tell You, and Why Must It Use Such Hushed Tones?"
+"Man Who Finds ‘They’ Pronouns Confusing Has No Problem Calling His Computer ""She"""
+Savage! Patrick Walton Shades Glyph
+Why I Stopped Overengineering and Started Overdesigning
+Help! My Dependency Refuses To 1.0
+"How to Sound Convincing When You Tell Them You Actually Weren't Even in the Mood to Use Placement New, And You're Not Upset It's Gone"
+How to Plan What to Do With Every Piece of Your Weirdness Budget and Then Just Blow It All On One Typesystem Instead
+Is He More Emotionally Present Lately Or Has He Just Had His PRs Blocked on Bors For A Month?
+Why It's Important to Test Before Writing Code and After Writing Code and Also While Writing Code
+Here's How Long To Run the Fans on Your Machine to Convince Everyone You Really Passed the Test Suite
+How to Pick the Best Restaurant to Fight With Ken Thompson in Every Time He's in Town
+"Editor's Note: This Port, While Direct, Feels Unidiomatic. We Welcome Community Feedback on Whether the Source Material Should Be Further Adapted to Our Target Audience (You)"
+How to Embrace the Lil’ Performance Bitch Within
+Hero! This Enbie Closed An Issue They'd Been Putting Off For An Entire Year
+"Wow! This Compiler Got Rid Of Its Age Spots By Calling Them ""Live-Action Syntax Regression Tests"""
+How to Quit Your Job When Nobody Notices Your Speed Improvements (Five Nanoseconds!)
+My C Compiler Lets Me Corrupt My Own Memory Instead Of Preventing It Ahead of Time Because He's a Feminist
+Programmer Adds Extra Underscores to the Beginning of Binding Names to Seem _____load_bearing
+"What Is Your Linter Trying to Tell You, and Why Must It Use Such Hushed Tones?"
+"Man Who Finds ‘They’ Pronouns Confusing Has No Problem Calling His Computer ""She"""
+Savage! Patrick Walton Shades Glyph
+Why I Stopped Overengineering and Started Overdesigning
+Help! My Dependency Refuses To 1.0
+"How to Sound Convincing When You Tell Them You Actually Weren't Even in the Mood to Use Placement New, And You're Not Upset It's Gone"
+How to Plan What to Do With Every Piece of Your Weirdness Budget and Then Just Blow It All On One Typesystem Instead
+Is He More Emotionally Present Lately Or Has He Just Had His PRs Blocked on Bors For A Month?
+Why It's Important to Test Before Writing Code and After Writing Code and Also While Writing Code
+Here's How Long To Run the Fans on Your Machine to Convince Everyone You Really Passed the Test Suite
+How to Pick the Best Restaurant to Fight With Ken Thompson in Every Time He's in Town
+"Editor's Note: This Port, While Direct, Feels Unidiomatic. We Welcome Community Feedback on Whether the Source Material Should Be Further Adapted to Our Target Audience (You)"
+How to Embrace the Lil’ Performance Bitch Within
+Hero! This Enbie Closed An Issue They'd Been Putting Off For An Entire Year
+"Wow! This Compiler Got Rid Of Its Age Spots By Calling Them ""Live-Action Syntax Regression Tests"""
+How to Quit Your Job When Nobody Notices Your Speed Improvements (Five Nanoseconds!)
+Imperative Programmer Touched That Their Language Remembered Their Favorite Paradigm Is Interior Mutability
+Woman Cozily Cupping Mug Secretly Thinking About Getting Absolutely Clobbered By The LLVM Optimization Pass
+Incroyable! This ’Zine Editor Learned Just Enough Vocabulary From Other Languages To Be A Snob About Them In Headlines
+Wow! This Woman Got Rid of Her Bugs by Calling Them Features!:
+rustfmt ‘Just Curious’ About Whether You’ve Seen That Tidying Up Show Yet
+How to Tell Your Sick Uncle You're Actually Saving Your Kidney For Carol (Nichols || Goulding)
+Inspiring: This Mentor Learns As Much From Their Mentees As Their Mentees Learn From Them
+"For Some Reason (The Patriarchy) It's Assumed That Male Is The Default And Female Is The Qualified
+
+It's Shitty"
+How to Develop in Rust so Well You Become Known as a Female Rust Developer
+"Great! Amanda's Friend You've Never Met is Joining Your Working Group
+
+Editor's Note: This Is A Sincere Post"
+How to Check Your Compiler for Soundness Without Getting too Depressed
+Hot Little Optimizations To Fire Off While You're Elbow Deep in a Refactor
+"“New Year, New Data!” Says Clone() You Thought You Could Trust"
+"‘Tell Me If This Makes Any Sense’, Says Woman About to Read Completely Normal Pull Request"
+"Uh Oh! The Compiler's Error Messages Are Getting Longer, And Less Immediately Understandable. You're Really Out There!"
+"Cool! This Man Isn't Defending R. Stallman, He's Just Asking Some Questions"
+Avoid Drunk Commenting On That RFC By Drunk Emailing To It Instead
+Man Letting Out Audible 'Mms' in Rust-Lang/Rust Repository Clearly Gets This Language Theory Thing
+PR Reviewer Assignment Becomes Fun Little Pen Pal!
+Imperative Programmer Touched That Their Language Remembered Their Favorite Paradigm Is Interior Mutability
+Woman Cozily Cupping Mug Secretly Thinking About Getting Absolutely Clobbered By The LLVM Optimization Pass
+Incroyable! This ’Zine Editor Learned Just Enough Vocabulary From Other Languages To Be A Snob About Them In Headlines
+Wow! This Woman Got Rid of Her Bugs by Calling Them Features!:
+rustfmt ‘Just Curious’ About Whether You’ve Seen That Tidying Up Show Yet
+How to Tell Your Sick Uncle You're Actually Saving Your Kidney For Carol (Nichols || Goulding)
+Inspiring: This Mentor Learns As Much From Their Mentees As Their Mentees Learn From Them
+"For Some Reason (The Patriarchy) It's Assumed That Male Is The Default And Female Is The Qualified
+
+It's Shitty"
+How to Develop in Rust so Well You Become Known as a Female Rust Developer
+"Great! Amanda's Friend You've Never Met is Joining Your Working Group
+
+Editor's Note: This Is A Sincere Post"
+How to Check Your Compiler for Soundness Without Getting too Depressed
+Hot Little Optimizations To Fire Off While You're Elbow Deep in a Refactor
+"“New Year, New Data!” Says Clone() You Thought You Could Trust"
+"‘Tell Me If This Makes Any Sense’, Says Woman About to Read Completely Normal Pull Request"
+"Uh Oh! The Compiler's Error Messages Are Getting Longer, And Less Immediately Understandable. You're Really Out There!"
+"Cool! This Man Isn't Defending R. Stallman, He's Just Asking Some Questions"
+Avoid Drunk Commenting On That RFC By Drunk Emailing To It Instead
+Man Letting Out Audible 'Mms' in Rust-Lang/Rust Repository Clearly Gets This Language Theory Thing
+PR Reviewer Assignment Becomes Fun Little Pen Pal!
+4 Blocking Issues to Mention Whenever Your Friend Announces Their New Release
+Mom Extremely Critical of Everyone's Behavior in Every Comment Thread
+Performance Optimization Exercises to Do with Every Blind Closed and the Door Locked
+How to Guide Your Pairing Partner Even Though Bad Code is Kinda 𝘠𝘰𝘶𝘳 Thing
+Man Seeking New Programming Language Not Looking for Anything Serious or Realistic
+Wow! This Project Manager Suddenly Believes in Codes of Conduct Years After His Community First Asked for Help
+This Progressive Brogrammer Uses Proper Pronouns But Not A Code of Conduct
+"When We're Less Burned Out
+
+(Never)"
+I Lived It: My Best Friend Started Learning Haskell
+"Also, He's Wrong"
+"""Rudeness and CoC Violations Are Different,"" RFC Commentor Helpfully Explains To RFC Author Who Has Experienced Both"
+Report: Slapping Codebase With Test Suite Not Actually Proof of Correctness
+"(Editor's Note: We Apologize for the Incorrect Capitalization in the Above Tweet. It Should Be Written “GithUB”, As Interacting With Multiple Instances of Identical Data Is Undefined Behavior)"
+How to Tell Men Apart During Github Hoodie Conference Season
+"""New Year, New Me!"" Says Woman About To Reinstall Her Old Compiler"
+"Documentation Author Who Wrote ""This Is Safe Actually"" Awarded Pulitzer Prize in Fiction"
+Sorry I Led You On By Retweeting You Once
+How Having Perfect Types Gave Me The Confidence To Go Testless
+"""I Would Never Collaborate With A Rustacean"" Says C Hacker With Whom No Rustacean Would Ever Collaborate"
+4 Blocking Issues to Mention Whenever Your Friend Announces Their New Release
+Mom Extremely Critical of Everyone's Behavior in Every Comment Thread
+Performance Optimization Exercises to Do with Every Blind Closed and the Door Locked
+How to Guide Your Pairing Partner Even Though Bad Code is Kinda 𝘠𝘰𝘶𝘳 Thing
+Man Seeking New Programming Language Not Looking for Anything Serious or Realistic
+Wow! This Project Manager Suddenly Believes in Codes of Conduct Years After His Community First Asked for Help
+This Progressive Brogrammer Uses Proper Pronouns But Not A Code of Conduct
+"When We're Less Burned Out
+
+(Never)"
+I Lived It: My Best Friend Started Learning Haskell
+"Also, He's Wrong"
+"""Rudeness and CoC Violations Are Different,"" RFC Commentor Helpfully Explains To RFC Author Who Has Experienced Both"
+Report: Slapping Codebase With Test Suite Not Actually Proof of Correctness
+"(Editor's Note: We Apologize for the Incorrect Capitalization in the Above Tweet. It Should Be Written “GithUB”, As Interacting With Multiple Instances of Identical Data Is Undefined Behavior)"
+How to Tell Men Apart During Github Hoodie Conference Season
+"""New Year, New Me!"" Says Woman About To Reinstall Her Old Compiler"
+"Documentation Author Who Wrote ""This Is Safe Actually"" Awarded Pulitzer Prize in Fiction"
+Sorry I Led You On By Retweeting You Once
+How Having Perfect Types Gave Me The Confidence To Go Testless
+"""I Would Never Collaborate With A Rustacean"" Says C Hacker With Whom No Rustacean Would Ever Collaborate"
+How I Survived My Battle With Unsolicited Advice About My Battle With the Borrow Checker
+Plans To Collaborate on a Crate Soon the Only Thing Holding Friendship Together
+"I May Not Be The Most Performant Girl At The Type Checker, But I'm Also Not The Safest"
+Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Hang Out at Their Conference Track?
+"It's a Scary Time for Men in Open Source, Because I'm Dressed in a Clown Suit, Taking Them Out One By One!"
+How to Keep The Contributions Coming Even Though The Whitespace Is Tabs
+How To Love Your Co-Maintainer Even If They're Not @withoutboats
+4 Fashion Headbands to Wear While Mentoring the New Girl
+"Linux Foundation Denounces Man For Allegedly Harassing Woman, Just Not the Right Man"
+How to Get a Guy to Stop Talking Over You So You Can Finally Tell Him You Want to Accept His Pull Request
+Wow! This Project Will Do Anything to Increase Diversity Except Adopt a Code of Conduct or Drink Water
+Life Hack: Make Friends An An Adult By Dressing Up As A Crab
+REPORT: No Way You Can Pull Off That Use Of Transmute
+How Not to Do The Crab Claw Hand Thing When Your Friends Announce That They're Trying (to Switch to Rust)
+Hero! This Woman Finally Worked Up The Courage To Look At Her Issue Backlog
+"Bullet Point Issue Closing Comment Actually Worse Than Going Stale:
